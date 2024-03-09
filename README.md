@@ -1,6 +1,6 @@
 
 Coffee Shop Sales Analysis Excel Dashboard
-This Excel dashboard project provides insightful analysis of sales data for a coffee shop. The dashboard is designed to help understand various aspects of sales performance as mentioned in feature section:
+This Excel dashboard project provides insightful analysis of sales data for a coffee shop. The dashboard is designed to help understand various aspects of sales performance as mentioned in the feature section below:
 
 Features
 1. Total Sales Month-wise: Visualizes the total sales over different months to identify trends and patterns.
